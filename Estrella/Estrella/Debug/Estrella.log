@@ -1,0 +1,4 @@
+﻿Triángulos.obj : error LNK2005: ya se definió "void __cdecl display(void)" (?display@@YAXXZ) en hola.obj
+Triángulos.obj : error LNK2005: ya se definió "void __cdecl init(void)" (?init@@YAXXZ) en hola.obj
+Triángulos.obj : error LNK2005: ya se definió _main en hola.obj
+C:\Users\HP\Desktop\Estrella\Debug\Estrella.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente

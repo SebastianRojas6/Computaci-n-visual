@@ -1,0 +1,3 @@
+﻿  A.cpp
+C:\Users\HP\Desktop\Tarea CV_\TareaCV 3\Project1\Project1\A.cpp(42,22): warning C4566: el carácter representado por el nombre de carácter universal '\u03B8' no se puede representar en la página de códigos actual (1252)
+LINK : fatal error LNK1104: no se puede abrir el archivo 'glut32.lib'

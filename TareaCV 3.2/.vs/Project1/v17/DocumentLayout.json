@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Tarea CV_\\TareaCV 3.2\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{955A10AA-80F8-4E24-8604-37D80FB3AA7E}|Project1\\Project1.vcxproj|C:\\Users\\HP\\Desktop\\Tarea CV_\\TareaCV 3.2\\Project1\\Project1\\E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{955A10AA-80F8-4E24-8604-37D80FB3AA7E}|Project1\\Project1.vcxproj|solutionrelative:Project1\\E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Tarea CV_\\TareaCV 3.2\\Project1\\Project1\\E.cpp",
+              "RelativeDocumentMoniker": "Project1\\E.cpp",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Tarea CV_\\TareaCV 3.2\\Project1\\Project1\\E.cpp",
+              "RelativeToolTip": "Project1\\E.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T01:31:01.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
